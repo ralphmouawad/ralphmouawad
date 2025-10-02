@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Ralph Mouawad, and I am currently a graduate student at Institut Polytechnique de Paris. I am pursuing the M2 Data Science which is directed by Ecole Polytechnique, #1 engineering school in France. 
-I also a bachelor's degree in Industrial Engineering and a minor in Data Science from the American University of Beirut. There, I focused on AI and Operations Research:
+I also hold a bachelor's degree in Industrial Engineering and a minor in Data Science from the American University of Beirut. There, I focused on AI and Operations Research:
 - Optimization: I took part in implementing algorithms to solve ML problems, and engaged in a research project in theoretical optimization for min-max problems.
 - Artificial Intelligence: I worked on projects that range from predictive analytics, to computer vision, natural language processing and graph analytics.
 
