@@ -7,6 +7,6 @@ I also hold a bachelor's degree in Industrial Engineering and a minor in Data Sc
 - Stochastic Modeling: markov chain modeling and monte carlo simulation applied to queueing and financial systems.
 
 I also collaborated with CMA CGM Digital Hub on developing a Mixed Integer Linear Program (MILP) to generate employee schedules, which was the most impactful project I have worked on in the past. 
-Currently, I am pursuing advanced studies in AI, optimization and big data at Polytechnique, after which I aim to work in the field. I'm mainly interested to apply my skills in modeling and AI in finance, supply chain or retailing.
+Currently, I am pursuing advanced studies in AI, optimization and big data at Polytechnique, after which I aim to work in the field. I'm mainly interested in applying my skills in modeling and AI in finance, supply chain or retailing.
 
 Contact me by email: ralphmouawad@outlook.com
