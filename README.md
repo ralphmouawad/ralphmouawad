@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-My name is Ralph Mouawad, I am currently a graduate student at Institut Polytechnique de Paris. I am pursuing the M2 Data Science directed by Ecole Polytechnique, #1 engineering school in France. 
-I also hold a bachelor's degree in Industrial Engineering and a minor in Data Science from the American University of Beirut. I'm mainly interested in AI and Operations Research such as:
-- Optimization: I took part in implementing algorithms to solve quadratic optimization and ML problems, and engaged in a research project in theoretical optimization for min-max problems.
-- Artificial Intelligence: I worked on projects that range from predictive analytics, to computer vision, natural language processing and graph analytics.
-- Stochastic Modeling: markov chain modeling and monte carlo simulation applied to queueing and financial systems.
+I'm a graduate student at Institut Polytechnique de Paris, pursuing the M2 Data Science offered by Ecole Polytechnique, #1 Engineering School in France. I hold a BEng in Industrial Engineering and a minor in Data Science from the American University of Beirut (AUB).
+I'm interested in AI and Operations Research, mainly mathematical optimization and its application in machine learning. I conducted an intensive research project at AUB on the convergence behavior of a new optimization algorithm, strengthening my mathematical skills. I collaborated previously with BNP Paribas on Parameter Efficient Fine Tuning (PEFT) of Vision Language Models for Object Detection and Recognition. I also collaborated with CMA CGM on developing an optimization model (MILP) for workforce scheduling. 
 
-I also collaborated with CMA CGM Digital Hub on developing a Mixed Integer Linear Program (MILP) to generate employee schedules, which was the most impactful project I have worked on in the past. 
-Currently, I am pursuing advanced studies in AI, optimization and big data at Polytechnique, after which I aim to work in the field. I'm mainly interested in applying my skills in modeling and AI in finance, supply chain or retailing.
+I also worked on multiple academic projects such as optimization theory and modeling, machine learning, deep learning, computer vision, LLM/ NLP, reinforcement learning, generative modeling, time series, online learning, markov chain and monte carlo simulation for queueing and finance as well as big data infrastructure and knowledge graph mining. These projects have given me the ability to work on multidisciplinary topics spanning AI & OR. I'm interested in applying my skills in mathematical modeling and AI to solve real world industrial problems in finance, supply chain and technology.
 
-Contact me by email: ralphmouawad@outlook.com
+Beside academics, I'm passionate about cars, the automotive industry and fitness!
+
+Let's connect together: ralphmouawad@outlook.com
